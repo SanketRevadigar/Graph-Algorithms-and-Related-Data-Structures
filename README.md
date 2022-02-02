@@ -1,0 +1,2 @@
+# Graph-Algorithms-and-Related-Data-Structures
+Coding part is done in 2 different .py files. As Minimum spanning tree and Shortest path topics are to be coded on both directed and undirected graphs, they are combined in a single code. Finding Strongly Connected components of a graph requires to check only on directed graphs, hence it is implemented in different code with different input text files that include directed graphs. Minimum Spanning Tree and Shortest Path - shortestpath_and_minspaningtree Strongly Connected Components- strongly_connected_comps
